@@ -1,6 +1,6 @@
 # 📟 Tarea #3 - Agenda Multicapas
 
-## 📝 Descripción
+## 📲 Descripción
 Este proyecto consiste en el desarrollo de una Agenda Web que permite a los usuarios almacenar y visualizar contactos de manera organizada y eficiente. La aplicación se conecta con una API externa para obtener y registrar contactos en tiempo real, facilitando la gestión de la información.
 
 La plataforma cuenta con una interfaz intuitiva y moderna, optimizada para brindar una experiencia fluida en la navegación y la manipulación de los datos. Además, se incorpora un sistema de paginación 📄 que mejora el rendimiento y la accesibilidad de la aplicación al manejar grandes volúmenes de contactos.

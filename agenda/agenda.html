@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>contactrd.com.do</title>
+    <link rel="stylesheet" href="/agenda/agendaStyle.css" type="text/css" />
+    <link rel="shortcut icon" href="/img/smartphone.png" type="image/x-icon">
+  </head>
+  <body>
+    <img class="banner-img" src="/img/Agenda.jpg" alt="banner-contact" />
+
+    <!-- MENU -->
+    <main class="primary-conteiner">
+      <header class="header-web">
+        <nav>
+          <ul class="ul-father">
+            <a href="/index.html"><li>Home</li></a>
+            <a href="/agenda/agenda.html"><li>Contact</li></a>
+          </ul>
+        </nav>
+      </header>
+
+      <!--SECTIONS -->
+      <section class="section-one">
+        <h1 class="section-one-headder">🎉 Contact Module! 📞</h1>
+        <p>
+          Discover a new way to connect with your friends, family, and
+          colleagues without missing any details. We are here to simplify your
+          life! 🌟😊 
+          <br>
+          <br>
+          With love, The ContactRD team 🌐📲
+        </p>
+        <br />
+        <br>
+
+        
+
+        <!-- TABLE -->
+        <table class="table">
+          <thead>
+            <th>Name</th>
+            <th>Lastname</th>
+            <th>Phone number</th>
+          </thead>
+          <tbody class="data"></tbody>
+        </table>
+        <p class="table-error-msg"></p>
+      </section>
+
+      <br />
+
+      <!-- SECCION BUTTONS-->
+      <section class="section-two">
+        <button
+          class="action-buttons"
+          type="button"
+          onclick="mostrarFormulario()"
+        >
+          New Contact
+        </button>
+
+        <p class="mensaje-post"></p>
+        <br />
+
+        <!-- NEW COUNTRY -->
+        <div id="contenedor-formulario"></div>
+      </section>
+    </main>
+    <script src="/agenda/agendajs.js"></script>
+  </body>
+</html>

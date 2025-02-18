@@ -29,7 +29,7 @@ A continuación, se muestran capturas de pantalla de la calculadora en funcionam
 ## 🚀 Instrucciones de Uso
 1. 🛠️ Clona este repositorio.
 ```bash
-   git clone https://github.com/chrisfelixgil/tarea-2-programacion-web.git
+   git clone https://github.com/chrisfelixgil/tarea-3-programacion-web.git
    ```
 2. Abre el archivo `index.html` en tu navegador web para visualizar la página.
 
